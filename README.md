@@ -1,21 +1,25 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#ff5733">Avanish Kumar Jha</span>!</h1>
+<h1 align="center">👋 Hey, I'm <span style="color:#ff5733">Avanish Kumar Jha</span></h1>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&height=50&lines=Android+%7C+Kotlin+%7C+Multiplatform+Developer;+Jetpack+Wizard!" 
-    alt="Typing SVG" 
-    style="max-width: 100%; height: 50px;"
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&height=45&lines=Android+Developer;Kotlin+%7C+Jetpack+Compose+%7C+Firebase;AR+%26+Kotlin+Multiplatform+Explorer;Building+clean+%26+delightful+apps"
+    alt="Typing SVG"
   />
 </p>
 
+---
 
-### 🎓 About Me
+## 🎓 About Me
 
-- 👨‍🎓 3rd-year **B.Tech CSE** student at **Parul University**
-- 💼 Interning as an Android Developer at <a href="https://graspit.co.in" target="_blank">GraspIt</a>
-- 💡 Passionate about building beautiful, user-focused apps using **Kotlin**, **Jetpack**, and **Firebase**
-- 🌍 Exploring **Kotlin Multiplatform** to create cross-platform magic!
-### 🛠️ Tech Stack
+- 👨‍🎓 3rd-year **B.Tech CSE** student at **Parul University**, Vadodara  
+- 💼 Previously **Android Developer Intern** at [GraspIt](https://graspit.co.in)  
+- 🛰 Currently **AR Application Developer Intern** at **Parul University** (ARCore-based campus navigation)  
+- 💡 Passionate about building **beautiful, user-focused Android apps** with **Kotlin**, **Jetpack**, and **Firebase**  
+- 🌍 Exploring **Kotlin Multiplatform (KMP)** to share logic across platforms and build smarter apps
+
+---
+
+## 🛠 Tech Stack
 
 <p align="center">
   <a href="https://kotlinlang.org/" target="_blank">
@@ -30,6 +34,9 @@
   <a href="https://developer.android.com/jetpack" target="_blank">
     <img src="https://img.shields.io/badge/Jetpack-%2300C853.svg?style=for-the-badge&logo=android&logoColor=white" alt="Jetpack Badge"/>
   </a>
+  <a href="https://developer.android.com/studio" target="_blank">
+    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio Badge"/>
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
   </a>
@@ -39,37 +46,49 @@
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
   </a>
-  <a href="https://developer.android.com/studio" target="_blank">
-    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio Badge"/>
-  </a>
 </p>
 
+---
 
-### 🔭 Current Goals
+## 🔭 Current Goals
 
-- 📱 Deep diving into **Kotlin Multiplatform Mobile (KMM)**
-- 🧠 Enhancing UX with better accessibility and motion design
-- 🛠 Scaling Android apps with modular architecture
+- 📱 Deep-diving into **Kotlin Multiplatform Mobile (KMM)**  
+- 🧠 Improving **UX** with accessibility & motion design  
+- 🏗 Designing **modular, scalable Android architectures**  
+- 🛰 Leveling up in **ARCore** + geospatial & navigation-style AR experiences  
 
-### 📂 Projects
+---
 
-#### 🔐 Firebase Authentication App  
-> Seamless user auth with Firebase - Clean UI, secure logic.  
-🔗 [GitHub Repository](https://github.com/Kingjha13/Firebase_authonti)
-#### 🎞️ Animation Demo  
-> Delightful transitions to elevate user experience in Android.  
-🔗 [GitHub Repository](https://github.com/Kingjha13/AnimationDemo)
+## 📂 Projects
 
+### 🔐 Firebase Authentication App  
+> Seamless user authentication using Firebase with a clean, modern UI and secure logic.  
+🔗 **GitHub:** [Firebase_authonti](https://github.com/Kingjha13/Firebase_authonti)
 
-### 🎬 Project Demos (Videos)
+---
 
-| Title                         | Instagram Video Link |
-|------------------------------|----------------------|
-| Word Game | [Watch here](https://www.instagram.com/avanishjha.13/reel/DANSHS3oYxU/) |
-| Music Player and Chat App            | [Watch here](https://www.instagram.com/reel/DHWpU8UxzKj/) |
+### 💬 Chat App  
+> Real-time chat experience with focus on chat UX, message states and smooth UI polish.  
+🔗 **GitHub:** [chatApp](https://github.com/Kingjha13/chatApp)
 
+---
 
-### 🌐 Connect With Me
+### 🌐 8th Wall WebAR Portfolio  
+> Web-based AR experiments built with **8th Wall**, JavaScript and A-Frame, showcasing AR interactions directly in the browser.  
+🔗 **Live:** [8th Wall Profile](https://www.8thwall.com/avnishjha/)
+
+---
+
+## 🎬 Project Demos (Videos)
+
+| Project                    | Demo Link |
+|---------------------------|-----------|
+| 🕹 **Word Game**          | [Watch here](https://www.instagram.com/avanishjha.13/reel/DANSHS3oYxU/) |
+| 🎵 **Music Player & Chat App** | [Watch here](https://www.instagram.com/reel/DHWpU8UxzKj/) |
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://instagram.com/avanishjha.13" target="_blank">
@@ -83,8 +102,9 @@
   </a>
 </p>
 
+---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kingjha13&show_icons=true&theme=radical" width="47%" />
@@ -95,5 +115,6 @@
   <img src="https://streak-stats.demolab.com/?user=Kingjha13&theme=radical" width="95%" />
 </p>
 
+---
 
-<h3 align="center">✨ Code once, run everywhere — that's the Kotlin way ⚡</h3>
+<h3 align="center">✨ Code once, ship everywhere — powered by Kotlin ⚡</h3>
