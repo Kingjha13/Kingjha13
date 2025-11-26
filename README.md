@@ -19,7 +19,7 @@
 
 ---
 
-## 💼 Experience (Mini Portfolio Style)
+## 💼 Experience
 
 ### 🔹 AR Application Developer Intern — Parul University  
 **Nov 2025 – Present · Vadodara, India**
