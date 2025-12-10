@@ -150,6 +150,3 @@
   <img src="https://streak-stats.demolab.com/?user=Kingjha13&theme=radical" width="95%" />
 </p>
 
----
-
-<h3 align="center">✨ Code once, ship everywhere — same energy as my portfolio ⚡</h3>
